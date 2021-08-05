@@ -74,6 +74,55 @@
 
 
 
+// Q 14. What is the output of below code?
 
+// console.log( String.prototype.trimLeft.name === 'trimLeft' );
+// console.log( String.prototype.trimLeft.name === 'trimStart' );
+
+// Q 15. What is the output of below code?
+
+// console.log(Math.max());
+
+// Q 16. 
+
+// console.log(10 == 10);
+// console.log(10 == [[[[[[10]]]]]]);
+
+// Q 17.
+
+// console.log(10 + '10');
+// console.log(10 - '10');
+
+// Q 18.
+
+// console.log(0 == false);
+// if(0) {
+// console.log("I'm True");
+// } else {
+// console.log("I'm False");
+// }
+
+// Q 19.
+
+// console.log(1, 2 + 3, 4);
+
+// Q 2.
+
+// function foo() {
+//     let x = y = 0;
+//     x++;
+//     y++;
+//     return x;
+// }
+
+// console.log(foo(), typeof x, typeof y);
+
+// Q 20.
+
+// const numbers = new Set(1, 1, 2, 3, 4);
+// console.log(numbers);
+
+// const browser = new Set('Firefox);
+// console.log(browser);
 
 
